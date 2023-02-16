@@ -1,0 +1,12 @@
+version: 2
+id: bag-of-words-meets-bags-of-popcorn
+score: 0.961
+teams: 577
+rank: 60
+date: 2023-02-14
+organization: Hanyang University
+team:
+    name: minjung405
+    members:
+     - id: minjung405
+       name: 김민정
