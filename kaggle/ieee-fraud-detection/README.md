@@ -22,8 +22,8 @@
 
 # 코드
 ---
-[jupyter notebook code](ieee-cis-fraud-detection.ipynb)
-[jupyter notebook code](ieee-catboost-groupkfold-cv.ipynb)
+[jupyter notebook code_1](ieee-cis-fraud-detection.ipynb)
+[jupyter notebook code_2](ieee-catboost-groupkfold-cv.ipynb)
 
 # 참고자료출
 ---
