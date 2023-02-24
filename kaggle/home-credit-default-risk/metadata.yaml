@@ -1,0 +1,12 @@
+version: 2
+id: home-credit-default-risk
+score: 0.80042
+teams: 7180
+rank: 836
+date: 2023-02-13
+organization: SecuLayer
+team:
+  name: sangwuPark
+  members:
+    - id: sangwuPark
+      name: 박상우
