@@ -1,0 +1,12 @@
+version: 1
+id: learning-equality-curriculum-recommendations
+score: 0.529
+teams: 1070
+rank: 123
+date: 2023-03-15
+organization: SecuLayer
+team:
+  name: qcqced
+  members:
+    - id: qcqced
+      name: 이정환
