@@ -1,0 +1,12 @@
+version: 1
+id: datasciencebowl
+score:  0.83671
+teams: 1049
+rank: 161
+date: 2023-03-08
+organization: Hanyang University
+team:
+  name: chihyunli
+  members:
+    - id: chihyunli
+      name: 이자윤
