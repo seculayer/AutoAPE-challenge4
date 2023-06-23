@@ -1,0 +1,12 @@
+version: 2
+id: march-machine-learning-mania-2016
+score: 0.54975
+team: 596
+rank: 89
+date: 2023-06-22
+organization: SecuLayer
+team:
+  name: yms622
+  members:
+    - id: yms622
+      name: 윤민식
