@@ -1,0 +1,12 @@
+version: 1
+id: happy-whale-and-dolphin
+score: 0.74546
+teams: 1588
+rank: 246
+date: 2023-04-24
+organization: SecuLayer
+team:
+  name: qcqced
+  members:
+    - id: qcqced
+      name: 이정환
