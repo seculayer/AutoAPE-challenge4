@@ -1,0 +1,12 @@
+version: 1
+id: us-patent-phrase-to-phrase-matching
+score: 0.8676
+teams: 1889
+rank: 20
+date: 2023-04-27
+organization: SecuLayer
+team:
+  name: qcqced
+  members:
+    - id: qcqced
+      name: 이정환
