@@ -1,0 +1,12 @@
+version: 1
+id: mayo-clinic-strip-ai
+score: 0.69413
+teams: 888
+rank: 157
+date: 2023-04-24
+organization: SecuLayer
+team:
+  name: hateflow
+  members:
+    - id: hateflow
+      name: 이정환
