@@ -1,0 +1,12 @@
+version: 1
+id: AI4Code
+score: 0.8557
+teams: 1135
+rank: 79
+date: 2023-05-16
+organization: SecuLayer
+team:
+  name: qcqced
+  members:
+    - id: qcqced
+      name: 이정환
