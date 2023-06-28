@@ -1,0 +1,12 @@
+version: 2
+id: Grasp-and-Lift EEG Detection
+score: 0.90819
+teams: 378
+rank: 120
+date: 2023.06.22
+organization: Seculayer
+team:
+  name: "Kim Min Seok"
+  members:
+    - id: Kim Min Seok
+      name: 김민석
