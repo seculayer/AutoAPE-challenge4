@@ -1,0 +1,12 @@
+version: 1
+id: playground-series-s3e10
+score: 0.03147
+teams: 807
+rank: 125
+date: 2023-06-27
+organization: SecuLayer
+team:
+  name: qcqced
+  members:
+    - id: qcqced
+      name: 이정환
