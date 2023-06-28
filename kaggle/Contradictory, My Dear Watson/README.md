@@ -17,7 +17,7 @@
 
 # 결과 화면
 
-![Score](./img/score.png)
+![Score](./img/score.PNG)
 
 # 사용한 방법 & 알고리즘
 
