@@ -1,0 +1,12 @@
+version: 2
+id: ai-village-ctf
+score: 0.315
+teams: 668
+rank: 178
+date: 2023-06-28
+organization: SecuLayer
+team:
+  name: joonyuong35s
+  members:
+    - id: joonyuong35s
+      name: Joonyuong
