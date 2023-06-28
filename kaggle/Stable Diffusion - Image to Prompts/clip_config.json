@@ -1,0 +1,82 @@
+{
+    "pipeline_setting": {
+        "train": true,
+        "test": false,
+        "checkpoint_dir": "./saved/model/",
+        "load_pretrained": false,
+        "resume": false,
+        "state_dict": "",
+        "name": "CLIPTrainer",
+        "loop": "train_loop",
+        "dataset": "SD2Dataset",
+        "model_arch": "CLIPModel",
+        "style_model_arch": "StyleExtractModel",
+        "model": "openai/clip-vit-large-patch14",
+        "style_model": "convnext_base_384_in22ft1k",
+        "text_encoder": "sentence-transformers/all-MiniLM-L6-v2",
+        "image_pooling": "CLIPGEMPooling"
+    },
+    "common_settings": {
+        "wandb": true,
+        "optuna": false,
+        "competition": "SD2",
+        "seed": 42,
+        "n_gpu": 1,
+        "gpu_id": 0,
+        "num_workers": 4
+    },
+    "data_settings": {
+        "n_folds": 5,
+        "max_len": 77,
+        "epochs": 5,
+        "batch_size": 256,
+        "val_batch_size": 256
+    },
+    "gradient_settings": {
+        "amp_scaler": true,
+        "gradient_checkpoint": true,
+        "clipping_grad": true,
+        "n_gradient_accumulation_steps": 1,
+        "max_grad_norm": 1000
+    },
+    "loss_options": {
+        "loss_fn": "CLIPMultipleNegativeRankingLoss",
+        "reduction": "mean"
+    },
+    "metrics_options": {
+        "metrics": "CosineSimilarity"
+    },
+    "optimizer_options": {
+        "optimizer": "AdamW",
+        "llrd": true,
+        "layerwise_lr": 5e-5,
+        "layerwise_lr_decay": 0.9,
+        "layerwise_weight_decay": 1e-2,
+        "layerwise_adam_epsilon": 1e-6,
+        "layerwise_use_bertadam": false,
+        "betas": [0.9, 0.999]
+    },
+    "scheduler_options": {
+        "scheduler": "cosine_annealing",
+        "batch_scheduler": true,
+        "num_cycles": 1,
+        "warmup_ratio": 0.1
+    },
+    "swa_options": {
+        "swa": true,
+        "swa_lr": 1e-6,
+        "anneal_epochs": 1,
+        "anneal_strategy": "cos"
+    },
+    "model_utils": {
+        "stop_mode": "max",
+        "freeze": true,
+        "vision_num_freeze": 6,
+        "reinit": true,
+        "vision_num_reinit": 2,
+        "awp": false,
+        "nth_awp_start_epoch": 2,
+        "awp_eps": 1e-2,
+        "awp_lr": 1e-4
+    }
+}

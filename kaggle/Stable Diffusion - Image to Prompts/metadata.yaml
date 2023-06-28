@@ -1,0 +1,12 @@
+version: 1
+id: stable-diffusion-image-to-prompts
+score: 0.57831
+teams: 1231
+rank: 248
+date: 2023-05-16
+organization: SecuLayer
+team:
+  name: qcqced
+  members:
+    - id: qcqced
+      name: 이정환
