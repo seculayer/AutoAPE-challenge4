@@ -1,0 +1,76 @@
+{
+    "pipeline_setting": {
+        "train": true,
+        "test": false,
+        "checkpoint_dir": "./saved/model/",
+        "resume": false,
+        "state_dict": "",
+        "name": "MayoTrainer",
+        "loop": "train_loop",
+        "dataset": "ImageDataset",
+        "model_arch": "STRIPModel",
+        "model1": "efficientnet_b0"
+    },
+    "common_settings": {
+        "wandb": true,
+        "optuna": false,
+        "competition": "FBP3",
+        "seed": 42,
+        "n_gpu": 1,
+        "gpu_id": 0,
+        "num_workers": 0
+    },
+    "data_settings": {
+        "n_folds": 5,
+        "epochs": 49,
+        "batch_size": 2
+    },
+    "gradient_settings": {
+        "amp_scaler": false,
+        "gradient_checkpoint": true,
+        "clipping_grad": true,
+        "n_gradient_accumulation_steps": 1,
+        "max_grad_norm": 1
+    },
+    "loss_options": {
+        "loss_fn": "CrossEntropyLoss",
+        "val_loss_fn": "CrossEntropyLoss",
+        "reduction": "mean"
+    },
+    "metrics_options": {
+        "metrics": ["WeightMCRMSELoss", "f_beta", "recall"]
+    },
+    "optimizer_options": {
+        "optimizer": "AdamW",
+        "llrd": true,
+        "layerwise_lr": 3e-4,
+        "layerwise_lr_decay": 0.9,
+        "layerwise_weight_decay": 1e-2,
+        "layerwise_adam_epsilon": 1e-6,
+        "layerwise_use_bertadam": false,
+        "betas": [0.9, 0.999]
+    },
+    "scheduler_options": {
+        "scheduler": "cosine_annealing",
+        "batch_scheduler": true,
+        "num_cycles": 2,
+        "warmup_ratio": 0.1
+    },
+    "swa_options": {
+        "swa": false,
+        "swa_lr": 1e-6,
+        "anneal_epochs": 1,
+        "anneal_strategy": "cos"
+    },
+    "model_utils": {
+        "stop_mode": "min",
+        "freeze": false,
+        "num_freeze": 4,
+        "reinit": false,
+        "num_reinit": 2,
+        "awp": false,
+        "nth_awp_start_epoch": 0,
+        "awp_eps": 1e-2,
+        "awp_lr": 1e-4
+    }
+}
