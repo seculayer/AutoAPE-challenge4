@@ -1,0 +1,12 @@
+version: 2
+id: g2net-detecting-continuous-gravitational-waves
+score: 0.786
+teams: 936
+rank:  11
+date: 2023-06-28
+organization: SecuLayer
+team:
+  name: joonyuong35s
+  members:
+    - id: joonyuong35s
+      name: Joonyuong
