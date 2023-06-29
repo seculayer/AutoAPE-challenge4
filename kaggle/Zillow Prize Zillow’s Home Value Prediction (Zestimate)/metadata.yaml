@@ -1,0 +1,12 @@
+version: 2
+id: Zillow Prize Zillow’s Home Value Prediction (Zestimate)
+score: 0.07528
+teams: 3770
+rank: 482
+date: 2023.06.29
+organization: Seculayer
+team: 
+  name: "Park Jae Woo"
+  members:
+    - id: Park Jae Woo
+      name: 박재우
