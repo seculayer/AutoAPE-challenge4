@@ -1,0 +1,12 @@
+version: 2
+id: rsna-breast-cancer-detection
+score: 0.53
+teams: 1687
+rank:  2
+date: 2023-06-29
+organization: SecuLayer
+team:
+  name: joonyuong35s
+  members:
+    - id: joonyuong35s
+      name: Joonyuong
