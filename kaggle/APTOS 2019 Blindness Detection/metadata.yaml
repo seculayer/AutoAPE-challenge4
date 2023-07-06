@@ -1,0 +1,12 @@
+version: 2
+id: aptos-2019-blindness-detection
+score: 0.9040
+teams: 2928
+rank: 1072
+date: 2023-02-23
+organization: SecuLayer
+team:
+  name: suuub_b
+  members:
+    - id: suuub_b
+      name: 이수빈
