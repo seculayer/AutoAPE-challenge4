@@ -1,0 +1,12 @@
+version: 2
+id: Ordinal Regression with a Tabular Wine Quality Dataset
+score: 0.57348
+team: 901
+rank: 219
+date: 2023-07-06
+organization: SecuLayer
+team:
+  name: so_o
+  members:
+    - id: so_o
+      name: 김소영
