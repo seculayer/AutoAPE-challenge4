@@ -1,0 +1,12 @@
+version: 2
+id: Binary Classification with a Tabular Stroke Prediction Dataset
+score: 0.89693
+team: 770
+rank: 82
+date: 2023-07-05
+organization: SecuLayer
+team:
+  name: so_o
+  members:
+    - id: so_o
+      name: 김소영
