@@ -1,0 +1,12 @@
+version: 2
+id: Categorical Feature Encoding Challenge
+score: 0.80213
+team: 1,338
+rank: 439
+date: 2023-07-06
+organization: SecuLayer
+team:
+  name: so_o
+  members:
+    - id: so_o
+      name: 김소영
