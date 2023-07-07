@@ -1,0 +1,12 @@
+version: 2
+id: flavours-of-physics
+score: 0.99086
+team: 673
+rank: 20
+date: 2023-07-04
+organization: SecuLayer
+team:
+  name: yms622
+  members:
+    - id: yms622
+      name: 윤민식
