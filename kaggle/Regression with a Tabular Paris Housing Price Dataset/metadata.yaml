@@ -1,10 +1,12 @@
-id: Playground Series
-title: Playground Series - Season 3, Episode 1
-score: 0.56281
-team: 690
-rank: 263
-date: 2023.04.03
-organization: Hanyang University
-author:
-  id: Jin Ronghuan
-  name: 김용환
+version: 2
+id: Regression with a Tabular Paris Housing Price Dataset
+score: 214438.30209
+team: 703
+rank: 3
+date: 2023-07-07
+organization: SecuLayer
+team:
+  name: so_o
+  members:
+    - id: so_o
+      name: 김소영
