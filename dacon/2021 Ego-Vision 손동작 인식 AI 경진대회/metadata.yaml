@@ -1,0 +1,12 @@
+version: 2
+id: 235805
+score: 0.0156
+teams: 290
+rank: 8
+date: 2023-07-04
+organization: SecuLayer
+team:
+  name: tjr
+  members:
+    - id: tjr
+      name: 석민재
