@@ -1,0 +1,12 @@
+version: 2
+id: Prediction of Wild Blueberry Yield
+score: 333.32461
+team: 1,875
+rank: 433
+date: 2023-07-04
+organization: SecuLayer
+team:
+  name: so_o
+  members:
+    - id: so_o
+      name: 김소영
