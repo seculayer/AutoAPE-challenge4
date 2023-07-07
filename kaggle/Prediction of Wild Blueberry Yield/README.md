@@ -9,8 +9,8 @@
 - 순위 및 비율 : 433 (23.1%)
 
 ## 결과 화면
-![score](./img/score.png)
-![rank](./img/rank.png)
+![score](./img/score.PNG)
+![rank](./img/rank.PNG)
 
 ## 사용한 방법 & 알고리즘
 - Step 1. 데이터 전처리
