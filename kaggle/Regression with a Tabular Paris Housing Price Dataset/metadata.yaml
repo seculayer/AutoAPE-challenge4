@@ -1,0 +1,12 @@
+version: 2
+id: Regression with a Tabular Paris Housing Price Dataset
+score: 214438.30209
+team: 703
+rank: 3
+date: 2023-07-07
+organization: SecuLayer
+team:
+  name: so_o
+  members:
+    - id: so_o
+      name: 김소영
