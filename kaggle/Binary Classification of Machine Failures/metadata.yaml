@@ -1,0 +1,12 @@
+version: 2
+id: playground-series-s3e17
+score: 0.98416
+teams: 1502
+rank: 40
+date: 2023-07-04
+organization: SecuLayer
+team:
+  name: ARG
+  members:
+    - id: ARG
+      name: 곽아람
