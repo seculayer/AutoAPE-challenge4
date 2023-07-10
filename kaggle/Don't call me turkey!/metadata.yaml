@@ -1,0 +1,12 @@
+version: 2
+id: dont-call-me-turkey
+score: 0.99048
+team: 266
+rank: 98
+date: 2023-07-10
+organization: SecuLayer
+team:
+  name: yms622
+  members:
+    - id: yms622
+      name: 윤민식
