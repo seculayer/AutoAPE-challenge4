@@ -12,8 +12,8 @@
 
 # 결과 화면
 ---
-![leaderboard](./img/1.PNG)
-![leaderboard](./img/2.PNG)
+![leaderboard](./img/1.png)
+![leaderboard](./img/2.png)
 
 # 사용한 방법 & 알고리즘
 ---
