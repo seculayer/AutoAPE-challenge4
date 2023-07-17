@@ -1,0 +1,12 @@
+version: 2
+id: Binary Classification with a Tabular Credit Card Fraud Dataset
+score: 0.81171
+team: 641
+rank: 206
+date: 2023-07-10
+organization: SecuLayer
+team:
+  name: so_o
+  members:
+    - id: so_o
+      name: 김소영
