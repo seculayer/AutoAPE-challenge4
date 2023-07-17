@@ -1,0 +1,12 @@
+version: 2
+id: IEEE-CIS Fraud Detection
+score: 0.923423
+team: 6,351
+rank: 1,646
+date: 2023-07-10
+organization: SecuLayer
+team:
+  name: so_o
+  members:
+    - id: so_o
+      name: 김소영
