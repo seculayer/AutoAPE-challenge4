@@ -1,0 +1,12 @@
+version: 2
+id: Leaf Classification
+score: 0.02255
+team: 1,595
+rank: 257
+date: 2023-07-13
+organization: SecuLayer
+team:
+  name: so_o
+  members:
+    - id: so_o
+      name: 김소영
