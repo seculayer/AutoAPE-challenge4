@@ -1,0 +1,12 @@
+version: 2
+id: Restaurant Revenue Prediction
+score: 1811436.21849
+team: 2,257
+rank: 299
+date: 2023-07-17
+organization: SecuLayer
+team:
+  name: so_o
+  members:
+    - id: so_o
+      name: 김소영
