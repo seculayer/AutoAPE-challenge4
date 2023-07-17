@@ -1,0 +1,12 @@
+version: 2
+id: Regression with a Tabular California Housing Dataset
+score: 0.55905
+team: 689
+rank: 171
+date: 2023-07-07
+organization: SecuLayer
+team:
+  name: so_o
+  members:
+    - id: so_o
+      name: 김소영
