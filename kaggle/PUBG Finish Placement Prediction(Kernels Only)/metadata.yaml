@@ -1,0 +1,12 @@
+version: 2
+id: pubg-finish-placement-prediction
+score: 0.01964
+team: 1528
+rank: 15
+date: 2023-07-20
+organization: SecuLayer
+team:
+  name: yms622
+  members:
+    - id: yms622
+      name: 윤민식
