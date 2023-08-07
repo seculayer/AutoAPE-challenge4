@@ -1,0 +1,12 @@
+version: 2
+id: career-con-2019
+score: 0.9038
+teams: 1443
+rank: 7
+date: 2023-08-04
+organization: SecuLayer
+team:
+  name: ARG
+  members:
+    - id: ARG
+      name: 곽아람
