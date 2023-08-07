@@ -1,0 +1,12 @@
+version: 2
+id: kobe-bryant-shot-selection
+score: 0.5979
+team: 1117
+rank: 11
+date: 2023-08-03
+organization: SecuLayer
+team:
+  name: yms622
+  members:
+    - id: yms622
+      name: 윤민식
