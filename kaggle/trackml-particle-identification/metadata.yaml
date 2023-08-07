@@ -1,0 +1,12 @@
+version: 1
+id: trackml-particle-identification
+score: 0.49261
+teams: 651
+rank: 162
+date: 2023-08-06
+organization: Hanyang University
+team:
+  name: songmingzhang
+  members:
+    - id: songmingzhang
+      name: SONGMING ZHANG
