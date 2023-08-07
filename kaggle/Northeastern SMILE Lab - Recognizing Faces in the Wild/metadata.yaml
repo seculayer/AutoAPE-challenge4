@@ -1,0 +1,12 @@
+version: 2
+id: recognizing-faces-in-the-wild
+score: 0.909
+teams: 522
+rank: 24
+date: 2023-08-02
+organization: SecuLayer
+team:
+  name: ARG
+  members:
+    - id: ARG
+      name: 곽아람
