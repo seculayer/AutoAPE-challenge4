@@ -1,0 +1,12 @@
+version: 2
+id: DontGetKicked
+score: 0.23923
+team: 570
+rank: 114
+date: 2023-08-02
+organization: SecuLayer
+team:
+  name: yms622
+  members:
+    - id: yms622
+      name: 윤민식
