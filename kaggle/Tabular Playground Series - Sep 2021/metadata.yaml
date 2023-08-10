@@ -1,0 +1,12 @@
+version: 1
+id: tabular-playground-series-sep-2021
+score: 0.81736
+teams: 1942
+rank: 119
+date: 2023-07-24
+organization: SecuLayer
+team:
+  name: tjrals
+  members:
+    - id: tjrals
+      name: 석민재
