@@ -11,8 +11,8 @@
 - 순위 및 비율 : 20(1.52%)
 
 # 결과 화면
-<img src="https://github.com/Arammmmm/kaggle/blob/f20ff15fbe692c7eade1c4d2e0840367418a73fe/Dogs%20vs.%20Cats%20Redux%20Kernels%20Edition/img/score.PNG">
-<img src="https://github.com/Arammmmm/kaggle/blob/f20ff15fbe692c7eade1c4d2e0840367418a73fe/Dogs%20vs.%20Cats%20Redux%20Kernels%20Edition/img/leaderboard.PNG">
+<img src="./img/score.PNG">
+<img src="./img/leaderboard.PNG">
 
 # 사용한 방법 & 알고리즘
 ***
