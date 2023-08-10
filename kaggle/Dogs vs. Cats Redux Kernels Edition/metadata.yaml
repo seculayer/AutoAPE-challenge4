@@ -1,0 +1,12 @@
+version: 2
+id: dogs-vs-cats-redux-kernels-edition
+score: 0.04160
+teams: 1314
+rank: 20
+date: 2023-08-07
+organization: SecuLayer
+team:
+  name: ARG
+  members:
+    - id: ARG
+      name: 곽아람
