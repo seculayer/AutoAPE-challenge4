@@ -1,0 +1,12 @@
+version: 2
+id: Higgs Boson Machine Learning Challenge
+score: 3.74874
+team: 1,784
+rank: 15
+date: 2023-08-10
+organization: SecuLayer
+team:
+  name: so_o
+  members:
+    - id: so_o
+      name: 김소영
