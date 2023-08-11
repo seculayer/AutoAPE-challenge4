@@ -1,0 +1,12 @@
+version: 2
+id: Histopathologic Cancer Detection
+score: 0.9682
+team: 1,149
+rank: 170
+date: 2023-08-11
+organization: SecuLayer
+team:
+  name: so_o
+  members:
+    - id: so_o
+      name: 김소영
