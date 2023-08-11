@@ -1,0 +1,12 @@
+version: 2
+id: Loan Default Prediction - Imperial College London
+score: 0.47806
+team: 672
+rank: 28
+date: 2023-08-03
+organization: SecuLayer
+team:
+  name: so_o
+  members:
+    - id: so_o
+      name: 김소영
