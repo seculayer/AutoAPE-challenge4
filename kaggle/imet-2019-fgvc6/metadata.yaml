@@ -1,0 +1,12 @@
+version: 1
+id: imet-2019-fgvc6
+score: 0.62900
+teams: 521
+rank: 58
+date: 2023-09-04
+organization: Hanyang University
+team:
+  name: songmingzhang
+  members:
+    - id: songmingzhang
+      name: SONGMING ZHANG
